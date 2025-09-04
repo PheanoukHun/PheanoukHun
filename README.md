@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a Current UT Austin undergrad.<br>I'm looking to collaborate with teams with on Cloud Infrastructure and Machine Learning.<br>I'm currently learning how to use AWS, and Git.
+Hello, I'm a Current UT Austin undergrad.<br>I'm looking to collaborate with teams with on Cloud Infrastructure and Machine Learning.<br>I'm currently creating projects that uses Python.
 
 
 ## 🌐 Socials:
